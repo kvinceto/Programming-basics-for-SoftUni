@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3yzV+wAf9T7pMUbozP7ZY+ngGRPZknr1wbNzA0Pf1ebKBRkSWqzxQ8fs0jZbv0AzNcnMQM98uqHhjPTB9yeKoQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\For Loop - Lab\\04. Even Powers of 2\\04. Even Powers of 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

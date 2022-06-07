@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5TFplPSLzSOdSU9Q5dgefQQAiUiV4LzJGaoqFoZnPs1OgOOSLvr5XXu6vJseWTNHppedYFJ6qNNBD4lBySmuw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\Nested Loops - Exercise\\02. Equal Sums Even Odd\\02. Equal Sums Even Odd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwlCcDLbggvzHxaWAwwR4ERLHA6T4gV4IXzEMhv4PpRP16EUZGgHxmYbRHlwcWzTvIvTVbvGEqdtrahq7Emc/g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\While Loop - Lab\\01. Read Text\\01. Read Text.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

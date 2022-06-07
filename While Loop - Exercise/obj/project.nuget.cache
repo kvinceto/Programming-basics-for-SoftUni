@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IWYwUADtGUzBU/jdr4jPOuPWizFjqRozlMHKkd7GDde5cuiSturRkq4+57fbzLuiAJQ/vcPud+Y7JAUpSlUb4A==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\While Loop - Exercise\\While Loop - Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

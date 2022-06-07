@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "heWOP0Nlp2J86OPQIe8TDQRjyeBTdRIv4S+LRqHzpgxZilAUJO+dUsH9BDHH4UvYvo6hzZA2leMUn7T4phBGkw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\06. Cake\\06. Cake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

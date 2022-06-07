@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sWo8cGYua8XeCyf/iu/2J1v75SEW0AXbQkn6YLi66dwtHJdrtad5SvnKkZZGaIGnD3IcmJsbG+CK9Ic8LCdaA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\01. Old Books\\01. Old Books.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LvQ1nvKYe2QqeR5mVmixGILSkokTSOk9gM2KY87Q26UX+GHbfpwtDnkjPU354B/9s3Jfxo1ek65u9H9i+FHh6w==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\While Loop - Lab\\06. Max Number\\06. Max Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

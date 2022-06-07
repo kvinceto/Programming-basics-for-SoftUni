@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/c+eG4ZQ93dErXozfTSWs3f7hJvjjZdhzxs9bp5p9ejiWUBQyU6kEDCia9tIXfTWk7Lq7v0spjnr1t18QjInA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\For Loop - Exercise\\01. Numbers Ending in 7\\01. Numbers Ending in 7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9b6c695-f855-49df-8166-01d2c446e19e": {
+      "ProjectGuid": "a9b6c695-f855-49df-8166-01d2c446e19e",
+      "DisplayName": "While Loop - Exercise",
+      "ColorIndex": 0
+    },
+    "66d9c5de-e902-4188-9d50-438118e2a628": {
+      "ProjectGuid": "66d9c5de-e902-4188-9d50-438118e2a628",
+      "DisplayName": "01. Old Books",
+      "ColorIndex": 1
+    },
+    "333c4962-7873-4ae6-8f63-a752c7071420": {
+      "ProjectGuid": "333c4962-7873-4ae6-8f63-a752c7071420",
+      "DisplayName": "02. Exam Preparation",
+      "ColorIndex": 2
+    },
+    "0bdef0f0-5573-4648-a8b4-1c74a5044c7b": {
+      "ProjectGuid": "0bdef0f0-5573-4648-a8b4-1c74a5044c7b",
+      "DisplayName": "03. Vacation",
+      "ColorIndex": 3
+    },
+    "59a94a7c-d848-40dc-88ee-60d1d62a6257": {
+      "ProjectGuid": "59a94a7c-d848-40dc-88ee-60d1d62a6257",
+      "DisplayName": "04. Walking",
+      "ColorIndex": 4
+    },
+    "399ec1ae-5553-4723-b91f-e74909fd25da": {
+      "ProjectGuid": "399ec1ae-5553-4723-b91f-e74909fd25da",
+      "DisplayName": "05. Coins",
+      "ColorIndex": 5
+    },
+    "889f0cd8-d855-4117-914f-18d3cd81b92b": {
+      "ProjectGuid": "889f0cd8-d855-4117-914f-18d3cd81b92b",
+      "DisplayName": "06. Cake",
+      "ColorIndex": 6
+    },
+    "4c8cd030-89fd-4430-bc14-be0c7f585754": {
+      "ProjectGuid": "4c8cd030-89fd-4430-bc14-be0c7f585754",
+      "DisplayName": "07. Moving",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QEK7sFslk2QEe1LrnrOL8uGgL2ei6WJ5l0L/Q/KeD6PG60bK6qHQQcKwMWMFywqrI2p4opQQiZ2lM5FG8Scevg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\For Loop - Exercise\\05. Salary\\05. Salary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

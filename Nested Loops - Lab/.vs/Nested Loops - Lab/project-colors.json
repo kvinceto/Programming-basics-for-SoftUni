@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b812c5a5-0004-4ece-9d03-4f38bd8d0d15": {
+      "ProjectGuid": "b812c5a5-0004-4ece-9d03-4f38bd8d0d15",
+      "DisplayName": "01. Clock",
+      "ColorIndex": 0
+    },
+    "1b2e6a1f-80e2-4881-86ef-d892651905ab": {
+      "ProjectGuid": "1b2e6a1f-80e2-4881-86ef-d892651905ab",
+      "DisplayName": "02. Multiplication Table",
+      "ColorIndex": 1
+    },
+    "4cef3ed9-8c91-4af3-b413-4db630d3d85f": {
+      "ProjectGuid": "4cef3ed9-8c91-4af3-b413-4db630d3d85f",
+      "DisplayName": "03. Combinations",
+      "ColorIndex": 2
+    },
+    "3b45ec38-006b-4708-ab35-c38038025801": {
+      "ProjectGuid": "3b45ec38-006b-4708-ab35-c38038025801",
+      "DisplayName": "04. Sum of Two Numbers",
+      "ColorIndex": 3
+    },
+    "30229e64-4cd9-41da-aa30-51979ae5f787": {
+      "ProjectGuid": "30229e64-4cd9-41da-aa30-51979ae5f787",
+      "DisplayName": "05. Travelling",
+      "ColorIndex": 4
+    },
+    "5e181551-324a-4333-b4af-223b18dd775c": {
+      "ProjectGuid": "5e181551-324a-4333-b4af-223b18dd775c",
+      "DisplayName": "06. Building",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

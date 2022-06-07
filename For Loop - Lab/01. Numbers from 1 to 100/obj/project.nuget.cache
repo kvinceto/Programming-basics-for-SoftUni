@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RuXfga7hcF6unkOGW7izZjRpuow4k0FW0iD52ztU5rWOfum/Rt6Pd8R9YzwPptUyoEejEfxuKpCBSt+ON4IT4A==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\For Loop - Lab\\01. Numbers from 1 to 100\\01. Numbers from 1 to 100.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

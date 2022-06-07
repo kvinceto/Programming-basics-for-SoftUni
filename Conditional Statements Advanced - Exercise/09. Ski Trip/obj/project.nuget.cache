@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i/W0cLngMrHonbB5B0OVX2TSF8qM6HsW+E/o940NYTfDzPWz12OJJW8TWHBMoeIUrPO4tXkOIV5MKsTozQaq4g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Exercise\\09. Ski Trip\\09. Ski Trip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+LLKOZp3WfdO7Q04uRQxEp/n1rbdp85oxA9L7Py2VouOvILlTQ9JsaqpPhudODfq1WyxPPIeJPokOyEK0IkObQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Exercise\\05. Journey\\05. Journey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kBj2lcB2aGWDW0TZcB0c6GZUarPFuVwr0f3Y3+2zA55t3/F/7Cg987RFeD4UXX+mzieY9hO0+ZxP8/q/0E/X3A==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\05. Coins\\05. Coins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

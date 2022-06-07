@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c8fdd61d-dee3-429a-bf63-1aa38aeda0dc": {
+      "ProjectGuid": "c8fdd61d-dee3-429a-bf63-1aa38aeda0dc",
+      "DisplayName": "01. Number Pyramid",
+      "ColorIndex": 0
+    },
+    "ce5c47c8-60ec-4a73-8477-39b45777c12c": {
+      "ProjectGuid": "ce5c47c8-60ec-4a73-8477-39b45777c12c",
+      "DisplayName": "02. Equal Sums Even Odd",
+      "ColorIndex": 1
+    },
+    "bd480393-45a6-475d-9d6e-7bacdaa74916": {
+      "ProjectGuid": "bd480393-45a6-475d-9d6e-7bacdaa74916",
+      "DisplayName": "03. Sum Prime Non Prime",
+      "ColorIndex": 2
+    },
+    "dad2107e-cf53-4d42-9ba1-3f7a4e4db93d": {
+      "ProjectGuid": "dad2107e-cf53-4d42-9ba1-3f7a4e4db93d",
+      "DisplayName": "04. Train The Trainers",
+      "ColorIndex": 3
+    },
+    "95b44c64-065b-44d6-ace4-533f4b46c6d8": {
+      "ProjectGuid": "95b44c64-065b-44d6-ace4-533f4b46c6d8",
+      "DisplayName": "05. Special Numbers",
+      "ColorIndex": 4
+    },
+    "93e42694-0680-4cf7-9d83-96b26a436c24": {
+      "ProjectGuid": "93e42694-0680-4cf7-9d83-96b26a436c24",
+      "DisplayName": "06. Cinema Tickets",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

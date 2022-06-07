@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ELTeJ0FimepRLdFAfkMRC+osmysUdUY7BONGqcaxJX6twgTBZ06zkgZZFvQIx3xvzPGP2AKxOqvWb5lIVpE13Q==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\Nested Loops - Lab\\01. Clock\\01. Clock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

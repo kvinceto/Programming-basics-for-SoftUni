@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kh2atBrO8eHUxA7W/GzyHGMwuq1w9W9/1v1eewW7jokLr6RpILtvzfEAnSEhTvzzfNIwrK9F1ywpx54rsX0thQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\For Loop - Lab\\05. Character Sequence\\05. Character Sequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

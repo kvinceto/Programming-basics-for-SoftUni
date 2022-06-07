@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SDNX1hKJ+mARQq8GlyZqogwlR5Go/BP2WtBAgUQramWDr2hg6VsLfTusSTe2TrgDeBe0q+V08qatJl9o89ySew==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\Nested Loops - Exercise\\05. Special Numbers\\05. Special Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

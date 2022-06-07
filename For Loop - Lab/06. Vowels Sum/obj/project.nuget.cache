@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/PDE52zOwVhZFGfk/nNZbQovzy1gHCvDYsOrgrDy0JObD6nk3vflHm9qvDuQizWE2F2HcLWdG6xivTa6+ANYiQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\For Loop - Lab\\06. Vowels Sum\\06. Vowels Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

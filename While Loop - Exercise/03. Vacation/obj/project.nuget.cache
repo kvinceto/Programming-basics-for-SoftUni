@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1iiz22qyHGSIP7eFp0Vrh7YiMivr/KcE+zvrSupDc+5FYTcPa3S53AGIBdjeVNkcg7hOQ74nuH3dPotfcIDVgQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\03. Vacation\\03. Vacation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

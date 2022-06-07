@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5ic+RgW6ym9hBbJvd21HNfRuh0T/OHmbOMhQ3mePSV5NpttiUVwqYehL6Qwv4duR9lZR6Bb58K/TmikDQRcXQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\For Loop - Exercise\\02. Half Sum Element\\02. Half Sum Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecf66a41-34bd-4e27-8513-7ffc62f4e994": {
+      "ProjectGuid": "ecf66a41-34bd-4e27-8513-7ffc62f4e994",
+      "DisplayName": "01. Numbers from 1 to 100",
+      "ColorIndex": 0
+    },
+    "8a061c43-d540-4449-8313-a0134abe4d00": {
+      "ProjectGuid": "8a061c43-d540-4449-8313-a0134abe4d00",
+      "DisplayName": "02. Numbers N to 1",
+      "ColorIndex": 1
+    },
+    "f679465c-95a8-41ef-b040-b66d40d79345": {
+      "ProjectGuid": "f679465c-95a8-41ef-b040-b66d40d79345",
+      "DisplayName": "03. Numbers 1 to N with Step 3",
+      "ColorIndex": 2
+    },
+    "bd108e49-ec36-4cf8-85ca-c8b2c22fcc80": {
+      "ProjectGuid": "bd108e49-ec36-4cf8-85ca-c8b2c22fcc80",
+      "DisplayName": "04. Even Powers of 2",
+      "ColorIndex": 3
+    },
+    "f225df29-8afb-4958-8437-d330622d6342": {
+      "ProjectGuid": "f225df29-8afb-4958-8437-d330622d6342",
+      "DisplayName": "05. Character Sequence",
+      "ColorIndex": 4
+    },
+    "be69d34c-1bc9-4b45-8fd0-3c3b17c44f60": {
+      "ProjectGuid": "be69d34c-1bc9-4b45-8fd0-3c3b17c44f60",
+      "DisplayName": "06. Vowels Sum",
+      "ColorIndex": 5
+    },
+    "933f767d-4839-4fdf-99a1-8e90b3d8aab6": {
+      "ProjectGuid": "933f767d-4839-4fdf-99a1-8e90b3d8aab6",
+      "DisplayName": "07. Sum Numbers",
+      "ColorIndex": 6
+    },
+    "52ac5ee9-6be0-43c1-b421-8e93c2dca905": {
+      "ProjectGuid": "52ac5ee9-6be0-43c1-b421-8e93c2dca905",
+      "DisplayName": "08. Number sequence",
+      "ColorIndex": 7
+    },
+    "51c70e53-b8bf-43f4-ba57-52b0ddb003a0": {
+      "ProjectGuid": "51c70e53-b8bf-43f4-ba57-52b0ddb003a0",
+      "DisplayName": "09. Left and Right Sum",
+      "ColorIndex": 8
+    },
+    "103e5814-e4ba-401b-a452-a43b22df8b3d": {
+      "ProjectGuid": "103e5814-e4ba-401b-a452-a43b22df8b3d",
+      "DisplayName": "10. Odd Even Sum",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

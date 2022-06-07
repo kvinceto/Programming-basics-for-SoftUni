@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQYQ7ih4AezbdzD+F7O6oSkXZt/+bbW2wvfzP+GbpBDtWtwhttuwFe+VvfdYu6PCoUYZX36vLxDnj5Mvb3DpTA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-basics-for-SoftUni\\For Loop - Lab\\07. Sum Numbers\\07. Sum Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
