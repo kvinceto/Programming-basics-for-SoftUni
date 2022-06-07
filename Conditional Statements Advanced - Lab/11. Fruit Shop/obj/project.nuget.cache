@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ABoih07eBffQjejYGo9zxknRp+VJAy6PP8dAoqaFi4YobQbe4e5X2MiCkBIBlGhOv36WMdW5n2xEXeL2F8BPdg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Lab\\11. Fruit Shop\\11. Fruit Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UsxM70BC1ckavrwU+3LLHs4f/KYS6Z2+quDijGgpywEyButT51M9eAoM8W5Dg3bvcaOGmgBY0JU73+/n/F8NkQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Lab\\02.Weekend or Working Day\\02.Weekend or Working Day.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

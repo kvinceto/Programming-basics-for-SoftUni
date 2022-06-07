@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LanS+6LJITSyCKS/ZZflnCSQwSB9qMCplz6DDnYAhedfwqxHQhFdaIYFyRyHRK72d+w0X9xHskBKsDu0gIdqfA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Lab\\12. Trade Commissions\\12. Trade Commissions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

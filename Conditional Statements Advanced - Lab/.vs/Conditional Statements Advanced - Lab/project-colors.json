@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ccb61e7e-ab70-4b07-8c27-2e5ac373fb0b": {
+      "ProjectGuid": "ccb61e7e-ab70-4b07-8c27-2e5ac373fb0b",
+      "DisplayName": "01. Day of Week",
+      "ColorIndex": 0
+    },
+    "5f5d33fb-ce1d-4411-8ce2-79ef92b245be": {
+      "ProjectGuid": "5f5d33fb-ce1d-4411-8ce2-79ef92b245be",
+      "DisplayName": "02.Weekend or Working Day",
+      "ColorIndex": 1
+    },
+    "f2002a09-6ed1-446a-8d84-5ef49145aeee": {
+      "ProjectGuid": "f2002a09-6ed1-446a-8d84-5ef49145aeee",
+      "DisplayName": "03. Animal Type",
+      "ColorIndex": 2
+    },
+    "fc8608a1-9aee-451a-baf1-7cfb8c2c2536": {
+      "ProjectGuid": "fc8608a1-9aee-451a-baf1-7cfb8c2c2536",
+      "DisplayName": "04. Personal Titles",
+      "ColorIndex": 3
+    },
+    "96fa1516-7639-4076-9403-0c993d55170a": {
+      "ProjectGuid": "96fa1516-7639-4076-9403-0c993d55170a",
+      "DisplayName": "05. Small Shop",
+      "ColorIndex": 4
+    },
+    "a5bc253f-22f8-40f0-8bb8-743e555ea7c9": {
+      "ProjectGuid": "a5bc253f-22f8-40f0-8bb8-743e555ea7c9",
+      "DisplayName": "06. Number in Range",
+      "ColorIndex": 5
+    },
+    "83b6a6c1-9385-4b31-abf9-cccf9f0f9712": {
+      "ProjectGuid": "83b6a6c1-9385-4b31-abf9-cccf9f0f9712",
+      "DisplayName": "07.Working Hours",
+      "ColorIndex": 6
+    },
+    "3bfef476-b261-467b-b97b-10f055d787b9": {
+      "ProjectGuid": "3bfef476-b261-467b-b97b-10f055d787b9",
+      "DisplayName": "08.Cinema Ticket",
+      "ColorIndex": 7
+    },
+    "d18b45ed-e0d6-40bd-a8ca-eb121a724573": {
+      "ProjectGuid": "d18b45ed-e0d6-40bd-a8ca-eb121a724573",
+      "DisplayName": "09. Fruit or Vegetable",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4263e881-b1e6-433a-9ec8-b17539d80ba3": {
+      "ProjectGuid": "4263e881-b1e6-433a-9ec8-b17539d80ba3",
+      "DisplayName": "09. Fruit or Vegetable 2",
+      "ColorIndex": 9
+    },
+    "4a299278-a82a-4d74-a0bd-7c3e7cbb1e03": {
+      "ProjectGuid": "4a299278-a82a-4d74-a0bd-7c3e7cbb1e03",
+      "DisplayName": "10. Invalid Number",
+      "ColorIndex": 10
+    },
+    "96784bb7-50d2-42d4-844c-b11c78b56dc0": {
+      "ProjectGuid": "96784bb7-50d2-42d4-844c-b11c78b56dc0",
+      "DisplayName": "11. Fruit Shop",
+      "ColorIndex": 11
+    },
+    "218bcf99-e98c-45f7-add0-78499f950cd4": {
+      "ProjectGuid": "218bcf99-e98c-45f7-add0-78499f950cd4",
+      "DisplayName": "12. Trade Commissions",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

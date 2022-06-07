@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qkdq5enCnR8tNkuqDtGRQuJDeLZ0zASn3W1dwMB8bMONl1EgxutsvyjfgK2SsTjnuOgje3roWyEu/G71ysgb5A==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Lab\\05. Small Shop\\05. Small Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

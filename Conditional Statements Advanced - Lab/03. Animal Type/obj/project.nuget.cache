@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AUfT3yQL5nDBZazAW/4zedY94IJGSvXICzWFg5G48A/YWWzi3Tso0U6zKUYSqECHXcg+g7wkSUuML1QcNSTZrQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Lab\\03. Animal Type\\03. Animal Type.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

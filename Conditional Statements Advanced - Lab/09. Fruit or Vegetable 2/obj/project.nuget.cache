@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lZDtdsiZ4SdWGWsJjSD4tC5W4gRpFLWIDt6pTWbbvkYSXQFZn8O3yuexjdqUdfABwazk2NLH8Dp1M48g6Tu5/w==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Lab\\09. Fruit or Vegetable 2\\09. Fruit or Vegetable 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

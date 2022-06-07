@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7ftYtH0PfH22D1y/JFzPkNVQXRdXMGnOkZtPn7zufbiEymM56SIrYhLBF8htH04oW6GCxUjt9GWPVe2EvCVWg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Lab\\08.Cinema Ticket\\08.Cinema Ticket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

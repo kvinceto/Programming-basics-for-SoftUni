@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9wlnNORYqQ8zQNMMYDIgQPhKcwCwmthNmRZsaISSB85M16uphpDdCiQQv+Y0CUQ7g5LaPOgEQ6DG1D5VVYwN1g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Lab\\04. Personal Titles\\04. Personal Titles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
