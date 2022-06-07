@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2hWtM3sIdmQbH6dDEfnbUwCDHBJoGE+TlFKF9KW2uvnsXsEt496C0zynao/69s2/MrarKATuaV738FYOXCQWg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Exercise\\02. Summer Outfit\\02. Summer Outfit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2Josih2AZUQFwI6Cv010xee6M9zmJ+44Ks1Cjk1Cx45tdYOL4JkOHZmdZZnxmwbFJ0qGhqtP8jWv1GQYAg0/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
