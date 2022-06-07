@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PYzxEq9T5Q4vMEZyFz3sU+sX5QwN5aHbjK4suhFgEvfwSIgzXLeXF6jiKOxjD8klp2vYYJl+1kwxupkJ7P7J/w==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\First Steps In Coding - Lab\\08. Pet Shop\\08. Pet Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EhX2f009em1/tVtHgs37BrSfy/44JNsK0mMME7TzX/0ek7NJk70d5+rRaOUVhYcu6xY08TcWfb54fD6JvP2sQA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\First Steps In Coding - Lab\\03. Rectangle Area\\03. Rectangle Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

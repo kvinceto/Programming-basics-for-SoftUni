@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wUqat/gxIf/8Z5MPreMBbnEQwKjnSI+1bcOrLcr7S9aB/rxuKlR1q7w2PDqVzsj9dANb00siZQNePNjtdXFpCg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\First Steps In Coding - Lab\\09. Yard Greening\\09. Yard Greening.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

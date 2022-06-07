@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f5WPP5kVTmlyy1PQjlQenp55kDSny95NqQfy9I9jwXEx6q1l06nXjBUyblEUfbqBKJePeUkFpcM1bUMZn1mlfw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\First Steps In Coding - Lab\\07. Projects Creation\\07. Projects Creation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
