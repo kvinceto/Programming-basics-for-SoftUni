@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VE7e2c7Yq0oJs0S/3+qt/i2/oMhrwjhLNZsiKGwEmT1qNWPIr1/z/PU3FT0JZZNaIoTFUaPjORJj/2zzgYUKlA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\First Steps In Coding - Exercise\\09. Fish Tank\\09. Fish Tank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4cJI9qu+xN+wXwNw++LDO3tA2W1RopB89mgKdZodik0IpI0PQvZSn1A+0DgAsy6d2Rtu/7krGUFZZGAjov7JYA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements - Exercise\\03. Time + 15 Minutes\\03. Time + 15 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

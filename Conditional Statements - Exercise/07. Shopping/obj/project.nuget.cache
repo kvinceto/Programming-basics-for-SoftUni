@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jDXZmAYxgH5d2/pga9cl8CNyWyT8AJt2DQyBKDAmB1qTBEZnsKLX1T3tSjd3xlIsvFIWG9iw8uky4Ld/tac6xA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements - Exercise\\07. Shopping\\07. Shopping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

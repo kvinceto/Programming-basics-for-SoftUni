@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+kooZSnhkv/foD+PapWECQfY6eHnHqIzJsI3pFdImO+cgOvl/b2/72ap4ZM/ZFtaCxUwXDh8Ckz9agMx+wPH3Q==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements - Exercise\\08. Lunch Break\\08. Lunch Break.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

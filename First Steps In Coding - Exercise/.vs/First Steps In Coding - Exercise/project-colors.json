@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "827faed9-43b9-474d-96f1-e670db6ebac5": {
+      "ProjectGuid": "827faed9-43b9-474d-96f1-e670db6ebac5",
+      "DisplayName": "01. USD to BGN",
+      "ColorIndex": 0
+    },
+    "c1b18adb-8e15-405f-aeb1-f565bfda5196": {
+      "ProjectGuid": "c1b18adb-8e15-405f-aeb1-f565bfda5196",
+      "DisplayName": "02. Radians to Degrees",
+      "ColorIndex": 1
+    },
+    "6fa0e6ed-2333-4f72-8c01-0f10ad726178": {
+      "ProjectGuid": "6fa0e6ed-2333-4f72-8c01-0f10ad726178",
+      "DisplayName": "03. Deposit Calculator",
+      "ColorIndex": 2
+    },
+    "ba8fb1ae-8540-49c1-a0e3-6692db450872": {
+      "ProjectGuid": "ba8fb1ae-8540-49c1-a0e3-6692db450872",
+      "DisplayName": "04. Vacation Books List",
+      "ColorIndex": 3
+    },
+    "49d15734-9455-454e-a6ee-1af27309d699": {
+      "ProjectGuid": "49d15734-9455-454e-a6ee-1af27309d699",
+      "DisplayName": "05. Supplies for School",
+      "ColorIndex": 4
+    },
+    "00939e17-1b82-4fc8-b567-e687f5b39526": {
+      "ProjectGuid": "00939e17-1b82-4fc8-b567-e687f5b39526",
+      "DisplayName": "06. Repainting",
+      "ColorIndex": 5
+    },
+    "eb0af7aa-66d3-4835-86cf-ce64ed321cb0": {
+      "ProjectGuid": "eb0af7aa-66d3-4835-86cf-ce64ed321cb0",
+      "DisplayName": "07. Food Delivery",
+      "ColorIndex": 6
+    },
+    "594c3f14-a148-4194-86a0-3472732f058e": {
+      "ProjectGuid": "594c3f14-a148-4194-86a0-3472732f058e",
+      "DisplayName": "08. Basketball Equipment",
+      "ColorIndex": 7
+    },
+    "f1756174-c74e-401c-a827-911aeedc43df": {
+      "ProjectGuid": "f1756174-c74e-401c-a827-911aeedc43df",
+      "DisplayName": "09. Fish Tank",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

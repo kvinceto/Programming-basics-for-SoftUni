@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LCbtQ+b7xVaAwDG4W0OIXxfXd1/iYkjQHRAsGN++dPj4QuZG663PKMQ7CLwlEZKhL2L+gJGZwg+d7/xf/Xyl2A==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements - Exercise\\01. Sum Seconds\\01. Sum Seconds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

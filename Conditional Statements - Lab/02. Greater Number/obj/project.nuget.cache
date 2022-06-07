@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/2pVpzN4FrKKeANZ+Ee9Dba1T93AcyR7ceVkbUQanyjxBQwUW196I3Hvz8ZiSiqnSsWrgYFC/udCifyhf5SkA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements - Lab\\02. Greater Number\\02. Greater Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

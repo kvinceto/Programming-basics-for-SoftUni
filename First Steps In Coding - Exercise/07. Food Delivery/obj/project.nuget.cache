@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1K5axNXyvdiBjCeZexXMO+60xY4pk+Ok9NPSeQj46816CIsWwI0Xs/HCD8YYrD8WXv++zdIlzaCjYPjp27z79A==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\First Steps In Coding - Exercise\\07. Food Delivery\\07. Food Delivery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OPsiVGUfcBCEQvTA/KfSujFvdgd6vP6SmOGGGvC+S8Z9tZli2f9WnIPHH0zHo4XwHOgAgBVXULLP0RZGLbzN+A==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements - Exercise\\02. Bonus Score\\02. Bonus Score.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HOVFIY8N06xxz3stOs5/FrdmbCxx9COw5H02y14VMQFIVcmfweUxkd5GlALkChbug/xS31dv2+FFj0/WmD+9rQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\First Steps In Coding - Exercise\\03. Deposit Calculator\\03. Deposit Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

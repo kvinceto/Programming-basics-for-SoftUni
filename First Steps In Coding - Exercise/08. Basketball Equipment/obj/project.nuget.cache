@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7n0juKZQjlxxT57O2fKUfKvKctF1Ie4pjCMSjaUb1W7xdLa+3nwNZTgvYFxuMzgmA4Aa6Ydd9WjZwbBpTk9kQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\First Steps In Coding - Exercise\\08. Basketball Equipment\\08. Basketball Equipment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

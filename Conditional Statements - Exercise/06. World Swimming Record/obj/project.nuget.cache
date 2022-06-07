@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0fzqUCAoN5XNqPeQ0v6yjS5mk6JKBTE89YoFY188s9/8ZqgKYds/KpS9GTYet6/RIrHaZ2ffdRjSTdp0Vb51g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements - Exercise\\06. World Swimming Record\\06. World Swimming Record.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

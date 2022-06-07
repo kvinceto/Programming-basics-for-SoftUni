@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6EaAW6sUGbdM7JK7E400z6ziL1/7cPfi5w8DzPQchm9tXZxbGJVGOR12CnfwcYIJFHL8avgbGDz+owfNhNSknA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements - Lab\\03. Even or Odd\\03. Even or Odd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

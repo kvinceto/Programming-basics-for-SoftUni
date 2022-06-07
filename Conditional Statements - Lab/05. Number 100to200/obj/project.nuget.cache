@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GSHuGON+ildRv/Gk7s1gMiHzbOSKF7FzE5RfhNfMIWono3XLY261iik3emr5XQhAGcx9Cx499hPcTkCQpGFmDg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements - Lab\\05. Number 100to200\\05. Number 100to200.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

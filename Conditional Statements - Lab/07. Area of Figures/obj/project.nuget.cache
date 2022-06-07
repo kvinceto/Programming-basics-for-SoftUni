@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FcbPTSXW3DKZxKMBdd5HKDhY025Ho6sA1NZJMLFZUofeZQD3Yp0BMh1tQBWXlbFFIMH/R8m2BvJDUGHKY1IirQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Cshapr Programing basic\\Conditional Statements - Lab\\07. Area of Figures\\07. Area of Figures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
